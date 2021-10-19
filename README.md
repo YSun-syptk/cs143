@@ -1,1 +1,2 @@
-# cs143
+# UCLA CS143
+# Project repository
